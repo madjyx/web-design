@@ -1,0 +1,82 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#header {
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#navigacijski_bar {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	text-transform: capitalize;
+	color: #FFF;
+	background-image: url(../slike/A2-navigacija.jpg);
+	background-repeat: repeat;
+	height: 30px;
+	width: 790px;
+	text-align: center;
+	border-top-width: 5px;
+	border-right-width: 5px;
+	border-bottom-width: 7px;
+	border-left-width: 5px;
+	border-top-style: ridge;
+	border-right-style: ridge;
+	border-bottom-style: ridge;
+	border-left-style: ridge;
+	border-top-color: #D6D6D6;
+	border-right-color: #D6D6D6;
+	border-bottom-color: #D6D6D6;
+	border-left-color: #D6D6D6;
+	background-color: #000;
+	font-weight: normal;
+	margin-right: auto;
+	margin-left: auto;
+}
+#main {
+	font-family: "MS Serif", "New York", serif;
+	font-size: 20px;
+	color: #FFF;
+	background-image: url(../slike/A3-background.jpg);
+	width: 800px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 0px;
+	padding: 0px;
+	border: medium none #FF0;
+}
+
+#footer {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #333;
+	font-size: 16px;
+	text-align: center;
+	height: 25px;
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	border: 2px solid #FFF;
+	background-image: url(../slike/A6-footer.jpg);
+}
+
+a:link {
+	text-decoration: none;
+	color: #FFF;
+}
+a:visited {
+	text-decoration: none;
+	color: #FFF;
+}
+a:hover {
+	text-decoration: none;
+	color: #0F3;
+}
+a:active {
+	text-decoration: none;
+}
+body,td,th {
+	color: #FFF;
+}
