@@ -1,2 +1,2 @@
-# web-design
+# web site
 basic web site
